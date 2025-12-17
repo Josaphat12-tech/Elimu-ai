@@ -175,11 +175,15 @@ detailed explanations, cool features, and exercises to boost your skills. Give i
 
 This project is maintained by **Bitingo Josaphat JB**.
 
-- LinkedIn: https://linkedin.com/in/bitingojosaphatjb/
-- GitHub: https://github.com/josaphat12-tech
-- Blog: https://bitingo-the-deep-neural-nets.hashnode.dev/
-- Email: bitingojosaphat@gmail.com
+<div align="center">
+  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/bitingojosaphatjb/)
+  [![GitHub](https://img.shields.io/badge/GitHub-%23181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/josaphat12-tech)
+  [![Blog](https://img.shields.io/badge/Blog-%23FF5722?style=for-the-badge&logo=hashnode&logoColor=white)](https://bitingo-the-deep-neural-nets.hashnode.dev/)
+  [![Email](https://img.shields.io/badge/Email-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bitingojosaphat@gmail.com)
+
+</div>
 
 <a href="https://github.com/josaphat12-tech/saas-app" target="_blank">
-  <img src="public/readme/jsmpro.jpg" alt="Project Banner">
+  <img src="public/readme/image_" alt="Project Banner">
 </a>
