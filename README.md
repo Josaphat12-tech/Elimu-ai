@@ -33,7 +33,11 @@
 
 Create an LMS SaaS app from scratch featuring user authentication, subscriptions, and payments using Next.js, Supabase, and Stripe! You'll build and deploy a real-time teaching platform with Vapi, integrate an AI vocal agent, and deliver seamless, interactive learning sessions.
 
-
+<div align="center">
+  <a href="https://github.com/josaphat12-tech/Elimu-ai" target="_blank">
+    <img src="public/readme/thumbnail.png" alt="Thumbnail" width="100%">
+  </a>
+</div>
 
 ## <a name="tech-stack">⚙️ Tech Stack</a>
 
@@ -169,6 +173,8 @@ We'd like to thank our contributors who have helped make this project better:
 
 - 🌟 [Eszter Focze](https://github.com/Focze-Eszter)
 
-<a href="https://github.com/josaphat12-tech/Elimu-ai" target="_blank">
-  <img src="public/readme/image_.png" alt="Project Banner">
-</a>
+<div align="center">
+  <a href="https://github.com/josaphat12-tech/Elimu-ai" target="_blank">
+    <img src="public/readme/image_.png" alt="Project Banner" width="100%">
+  </a>
+</div>
