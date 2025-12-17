@@ -1,7 +1,7 @@
 <div align="center">
   <br />
-    <a href="https://www.youtube.com/watch?v=XUkNR-JfHwo" target="_blank">
-      <img src="public/readme/hero.png" alt="Project Banner">
+    <a href="https://github.com/josaphat12-tech/Elimu-ai" target="_blank">
+      <img src="https://raw.githubusercontent.com/josaphat12-tech/Elimu-ai/main/public/readme/intro-banner.png" alt="Elimu.ai Intro" width="100%">
     </a>
   <br />
 
@@ -34,8 +34,8 @@
 Create an LMS SaaS app from scratch featuring user authentication, subscriptions, and payments using Next.js, Supabase, and Stripe! You'll build and deploy a real-time teaching platform with Vapi, integrate an AI vocal agent, and deliver seamless, interactive learning sessions.
 
 <div align="center">
-  <a href="https://github.com/josaphat12-tech/Elimu-ai" target="_blank">
-    <img src="https://raw.githubusercontent.com/josaphat12-tech/Elimu-ai/main/public/readme/intro-banner.png" alt="Elimu.ai Intro" width="100%">
+  <a href="https://www.youtube.com/watch?v=XUkNR-JfHwo" target="_blank">
+    <img src="public/readme/hero.png" alt="Project Banner" width="100%">
   </a>
 </div>
 
