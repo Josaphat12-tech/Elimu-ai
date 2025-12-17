@@ -35,7 +35,7 @@ Create an LMS SaaS app from scratch featuring user authentication, subscriptions
 
 <div align="center">
   <a href="https://github.com/josaphat12-tech/Elimu-ai" target="_blank">
-    <img src="public/readme/thumbnail.png?v=1" alt="Elimu.ai Thumbnail" width="100%">
+    <img src="https://raw.githubusercontent.com/josaphat12-tech/Elimu-ai/main/public/readme/thumbnail.png" alt="Elimu.ai Thumbnail" width="100%">
   </a>
 </div>
 
@@ -175,6 +175,6 @@ We'd like to thank our contributors who have helped make this project better:
 
 <div align="center">
   <a href="https://github.com/josaphat12-tech/Elimu-ai" target="_blank">
-    <img src="public/readme/image_.png?v=1" alt="Project Banner" width="100%">
+    <img src="https://raw.githubusercontent.com/josaphat12-tech/Elimu-ai/main/public/readme/image_.png" alt="Project Banner" width="100%">
   </a>
 </div>
